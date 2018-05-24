@@ -1,0 +1,6 @@
+{
+  "require": {
+    "phalcon/incubator": "^2.0",
+    "robmorgan/phinx": "^0.5.4"
+  }
+}
